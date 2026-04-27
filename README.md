@@ -51,7 +51,7 @@ Proyecto integrador desarrollado utilizando Spring Boot y Spring Security.
 ### Clonar repositorio
 
 ```bash
-git clone https://github.com/JPRomanelli94/blog-online-api.git
+git clone https://github.com/JPRomanelli94/blog_online.git
 ```
 
 ---
